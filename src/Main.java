@@ -6,7 +6,7 @@ public class Main {
 
         ClassTwo F = new ClassTwo(); // Call constructor
         F.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); // Allows Frame to close correctly
-        F.setSize(500, 250); // Sets JFrame size
+        F.setSize(550, 150); // Sets JFrame size
         F.setVisible(true); // Makes JFrame visible
 
     }
